@@ -13,8 +13,6 @@ This project explores the socioeconomic and healthcare factors contributing to m
   - Visualized significant trends using **Matplotlib**
   - Drafted policy-oriented recommendations based on findings
 
----
-
 ## Key Hypotheses Tested
 1. **Affordability vs. GDP per capita:** Negative correlation  
 2. **Food Prices vs. Malnutrition Index:** Positive correlation  
@@ -23,8 +21,6 @@ This project explores the socioeconomic and healthcare factors contributing to m
 
 All hypotheses were supported by statistically significant results, indicating real-world policy relevance.
 
----
-
 ## Repository Structure
 - `Cleaned_Data.rar`: Cleaned dataset after preprocessing with Pandas  
 - `Raw_Data.rar`: Original raw dataset downloaded from World Bank  
@@ -32,17 +28,12 @@ All hypotheses were supported by statistically significant results, indicating r
 - `Paper_presentation.pptx`: Slide deck summarizing the project, insights, and recommendations  
 - `Research_paper.pdf`: Full research paper detailing methodology, analysis, and future work  
 
----
-
 ## Tools & Libraries Used
 - **Python** (Jupyter Notebook)
 - **Pandas** for data cleaning
 - **Matplotlib** for visualization
 - **SciPy.stats** for correlation and hypothesis testing
 
----
-
 ## Data Access & Reuse
 Due to size constraints, data is compressed into `.rar` archives.  
 To access the full dataset or collaborate on future research, please reach out via GitHub or email.
-
